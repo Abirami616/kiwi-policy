@@ -50,6 +50,30 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
+* SMS Data Usage
+
+##### What We Access
+
+If you are using Kiwi on an Android device, and you grant SMS permission, the app may access SMS messages on your device that are sent by recognized **banking institutions and financial service providers**. We do **not** access or process personal conversations or unrelated messages.
+
+##### Why We Access It
+
+Kiwi uses this access solely to:
+
+- Detect and extract **financial transaction details** (such as debits, credits, and account balances)
+- Automatically categorize and track your expenses
+- Provide insights into your personal finances — without requiring manual input
+
+##### How It’s Handled
+
+- **All SMS processing happens locally** on your device.
+- We **do not transmit**, store, or share SMS content externally.
+- We **do not send messages** or modify/delete any messages on your device.
+
+The permission is only requested if you choose to activate automation features related to SMS-based expense tracking.
+
+---
+
 #### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
 
